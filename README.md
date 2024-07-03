@@ -1,2 +1,2 @@
-Basically this python code will help you to mine google reviews and convert them into excel form.
-Feel free to follow "The Complete Technical Guide on Analyzing Google Reviews" document that is included above!
+# Google Reviews Mining and Analyzing  
+For this project, I developed a Python web scraping program using Selenium to mine Google reviews from Google Maps. The data collected was then converted into an Excel format for further analysis. I performed sentiment analysis on the reviews to detect consumer preferences and utilized Excel tools like PivotCharts to visualize the data. Additionally, I created a comprehensive technical guide that outlines the entire process, allowing others to replicate the project.
